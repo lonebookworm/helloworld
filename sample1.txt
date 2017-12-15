@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <LedShowPara>
+    <LedCharWidth>11</LedCharWidth>
+    <LedCharInterval>4</LedCharInterval>
+    <LedPendWidth>2</LedPendWidth>
+    <LedColor>0xfff0f8ff</LedColor>
+    <LedBackColor>0xffffffff</LedBackColor>
+  </LedShowPara>
+</NewDataSet>
